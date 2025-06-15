@@ -46,8 +46,8 @@ REST helps create ellipsoids, super-ellipsoids, and aggregate particle structure
 - PyVista (`pip install pyvista`)
 - VTK (`pip install vtk`)
 - Windows Sub-system for Linux (WSL) (to run different linux shell script)
-To launch (Windows):
 
+To launch (Windows):
 Doble click the `REST.bat` file inside the REST directory.
 
 ## 📚 Citation
