@@ -29,7 +29,7 @@ REST helps create ellipsoids, super-ellipsoids, and aggregate particle structure
 
 ## 🚀 Getting Started (Windows)
 
-1. Download the latest `REST_0.1.1_Windows.zip` from [Releases](https://github.com/yourusername/REST/releases).
+1. Download the latest `REST_0.1.1_Windows.zip` from [Releases](https://github.com/prithishh3/REST/releases/).
 2. Extract the folder.
 3. Double-click `REST.bat` inside the REST directory to launch the GUI.
 
