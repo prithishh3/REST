@@ -39,13 +39,13 @@ REST helps create ellipsoids, super-ellipsoids, and aggregate particle structure
 
 ## ⚙️ Requirements (Windows)
 
-### For Linux/macOS users:
+### For Windows:
 - Java 11
-- `gfortran`
+- `gfortran` (required to generate different composite structures)
 - Python 3
 - PyVista (`pip install pyvista`)
 - VTK (`pip install vtk`)
-
+- Windows Sub-system for Linux (WSL) (to run different linux shell script)
 To launch (Windows):
 
 Doble click the `REST.bat` file inside the REST directory.
